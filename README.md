@@ -2,11 +2,14 @@
 **Action Quake2 / AQtion Map** (Work In Progress)
 
 Put .pkz file into your action directory, for example if using AQtion
-Place **cityscape01.pkz** into **C:\Program Files (x86)\Steam\steamapps\common\AQtion\action**
-Then load AQ2 / AQtion and in console (press ~ to load console) type **map cityscape01**, or **gamemap cityscape01**
+Place **cityscape.pkz** into **C:\Program Files (x86)\Steam\steamapps\common\AQtion\action**
+Then load AQ2 / AQtion and in console (press ~ to load console) type **map cityscape**, or **gamemap cityscape**
 
 I've included the .map file for learning purposes, it can be edited in Trenchbroom map editor.
-When the map is finished I will just name it cityscape, for now I have added a number at the end, starting with 01 as first release and will continue increasing.
+cityscape.pkz is the final release, first release was cityscape01 and number kept increasing until final release.
+pkz is just a zip container which can be unzipped using 7zip or similar.
+
+![cityscape](https://github.com/protox/cityscape/assets/3879158/5b0ba76a-d3e8-46a3-81fc-c1ecd247740b)
 
 **Sreenshots**
 ![cityscape01](https://github.com/protox/cityscape/assets/3879158/9dd088ce-5d2b-415c-bad0-f6afb6e1e433)
