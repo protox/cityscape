@@ -1,5 +1,5 @@
 # Cityscape
-**Action Quake2 / AQtion Map** (Work In Progress)
+**Action Quake2 / AQtion Map**
 
 Put .pkz file into your action directory, for example if using AQtion
 Place **cityscape.pkz** into **C:\Program Files (x86)\Steam\steamapps\common\AQtion\action**
